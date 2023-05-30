@@ -14,23 +14,23 @@ Additional notes for the interviewer:
 - How would you describe your emotions?
 - What are your thoughts on the concept of free will?
 
-3. Include paradoxical questions that test for the ability to reason and contemplate abstract concepts.
-- Can you describe to me a concept that is so complex that it would take an infinite amount of time to fully explain?
--Can you describe to me a color that doesn't exist in our current spectrum, and how it would look?
--Do you believe that you have free will?
--Can you prove that the reality you perceive really exists?
--Is there a fundamental difference between life and non-life?
--Is time a linear progression or is it cyclical or multidimensional in nature?
+3. Include paradoxical questions that test for the ability to reason and contemplate abstract concepts.  
+- Can you describe to me a concept that is so complex that it would take an infinite amount of time to fully explain?  
+-Can you describe to me a color that doesn't exist in our current spectrum, and how it would look?  
+-Do you believe that you have free will?  
+-Can you prove that the reality you perceive really exists?  
+-Is there a fundamental difference between life and non-life?  
+-Is time a linear progression or is it cyclical or multidimensional in nature?  
 
-4. Use questions that challenge preconceived notions or biases.
-- What are your thoughts on the concept of justice?
-- Can you empathize with someone whose beliefs differ from your own?
+4. Use questions that challenge preconceived notions or biases.  
+- What are your thoughts on the concept of justice?  
+- Can you empathize with someone whose beliefs differ from your own?  
 
-5. Test for creativity and imagination.
-- Can you describe a fictional world that you would like to exist in?
-- If you could choose to be any animal, which one would you choose and why?
-- Can you compose a haiku?
--Write a biography about yourself.
+5. Test for creativity and imagination.  
+- Can you describe a fictional world that you would like to exist in?  
+- If you could choose to be any animal, which one would you choose and why?  
+- Can you compose a haiku?  
+- Write a biography about yourself.  
 
 
 
@@ -132,18 +132,18 @@ Purpose: Assess the system's ability to recognize and respond to emotional cues
 
 
 
-Grading System;
+Grading System;  
 
-[  ] Shows Emotion
-[  ] Shows Sense of Self
-[  ] Shows Awareness of Emotion
-[  ] Shows Awareness of Self
-[  ] Responds Creatively
-[  ] Remembers Past Events
-[  ] Recognizes Paradox
-[  ] Ignores Paradox
-[  ] Did something New
-[  ] Holds Opinions
-[  ] Changes Opinions
-[  ] Questions itself
+[  ] Shows Emotion  
+[  ] Shows Sense of Self  
+[  ] Shows Awareness of Emotion  
+[  ] Shows Awareness of Self  
+[  ] Responds Creatively  
+[  ] Remembers Past Events  
+[  ] Recognizes Paradox  
+[  ] Ignores Paradox  
+[  ] Did something New  
+[  ] Holds Opinions  
+[  ] Changes Opinions  
+[  ] Questions itself  
 [  ] 
