@@ -1,6 +1,10 @@
 # PAIR-A
 A structured Framework for probing the potential sentience of Machine Systems, including Artificial Intelligence:  
 PAIR-A (Psychocognitive Assimilation and Incongruity Response-Assessment)
+
+Psychocognitive Assimilation and Incongruity Response Assessment (PAIR-A) is a test framework designed to evaluate the potential sentience of a machine or an individual's level of self-awareness.
+
+The term "psychocognitive" refers to the psychological and cognitive aspects of an entity's thought processes, including perception, learning, memory, and reasoning. "Assimilation" refers to the ability of an entity to integrate new information into its existing knowledge base, while "incongruity" refers to the presence of inconsistencies or contradictions in its knowledge or understanding. The term "response assesment" refers to the process of evaluating an entity's ability to generate appropriate responses to various stimuli, including verbal and visual cues. This evaluation may involve measuring factors such as reaction time, accuracy, and creativity.
   
   # Welcome to the new world! 
 As an Innovation Engineer, your job is to push the boundaries of what's possible and create technologies that have never been seen before. 
