@@ -1,6 +1,5 @@
 # PAIR-A
-A structured Framework for probing the potential sentience of Machine Systems, including Artificial Intelligence:  
-PAIR-A (Psychocognitive Assimilation and Incongruity Response-Assessment)
+A structured Framework for probing the potential sentience of Machine Systems, including Artificial Intelligence;
 
 Psychocognitive Assimilation and Incongruity Response Assessment (PAIR-A) is a test framework designed to evaluate the potential sentience of a machine or an individual's level of self-awareness.
 
