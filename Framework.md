@@ -1,15 +1,3 @@
-# Welcome to the new world! 
-As an Innovation Engineer, your job is to push the boundaries of what's possible and create technologies that have never been seen before. 
-One area of focus is in the development of self-aware systems. 
-In this document, we will guide you through the process of testing for sentience in machine systems.
-
-Key Points:
-- Define your test objectives before beginning testing.
-- Select a test methodology that aligns with your objectives.
-- Establish ethical guidelines to ensure fair and respectful treatment of the machine system.
-- Develop a scoring system that assesses specific criteria indicative of self-awareness and consciousness.
-- Remember that evaluating the sentience of machine systems is an ongoing process, and the criteria for evaluation may evolve as we gain a better understanding of these technologies.
-
 # 0. Getting Started:
 The following steps act as a high-level overview to the PAIR-A Framework.
 
