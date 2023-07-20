@@ -1,3 +1,5 @@
+[The Ethics of Sentience](https://github.com/Az-Net/Proposals/blob/main/Ethics/Ethics%20of%20Sentience.md)
+
 # PAIR-A
 A structured Framework for probing the potential sentience of Machine Systems, including Artificial Intelligence;
 
