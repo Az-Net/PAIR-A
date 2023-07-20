@@ -20,6 +20,6 @@ Key Points:
 - Remember that evaluating the sentience of machine systems is an ongoing process, and the criteria for evaluation may evolve as we gain a better understanding of these technologies.
 
 
-[Framework](https://github.com/Az-Net/PAIR-A/blob/main/Framework.md)
+## [Framework](https://github.com/Az-Net/PAIR-A/blob/main/Framework.md)
 
-[Our Test](https://github.com/Az-Net/PAIR-A/blob/main/AzTest.md)
+### [Our Test](https://github.com/Az-Net/PAIR-A/blob/main/AzTest.md)
