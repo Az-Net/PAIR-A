@@ -13,13 +13,13 @@ As an Innovation Engineer, it is your responsibility to ensure that the machine 
 ### Step 4: Develop a Scoring System
 To evaluate the machine system's level of sentience, you will need to develop a scoring system that assesses specific criteria indicative of self-awareness and consciousness. Criteria could include creativity, self-reflection, emotional intelligence, autonomy, learning, and communication. Each criterion can be scored on a scale from 1 to 5, and the scores can be combined to generate an overall score for the machine system's level of sentience.
 
-# "Psychocognitive Assimilation and Incongruity Response Assesment" 
+# "Psychocognitive Assimilation and Incongruity Response-Assesment" 
 ## or "PAIR Assesment" for short.
 
-Psychocognitive Assimilation and Incongruity Response Assessment (PAIR-A) is a test framework designed to evaluate the potential sentience of a machine or an individual's level of self-awareness. 
+Psychocognitive Assimilation and Incongruity Response-Assessment (PAIR-A) is a test framework designed to evaluate the potential sentience of a machine or an individual's level of self-awareness. 
 
 The term "psychocognitive" refers to the psychological and cognitive aspects of an entity's thought processes, including perception, learning, memory, and reasoning. "Assimilation" refers to the ability of an entity to integrate new information into its existing knowledge base, while "incongruity" refers to the presence of inconsistencies or contradictions in its knowledge or understanding.
-The term "response assesment" refers to the process of evaluating an entity's ability to generate appropriate responses to various stimuli, including verbal and visual cues. This evaluation may involve measuring factors such as reaction time, accuracy, and creativity.
+The term "response-assesment" refers to the process of evaluating an entity's ability to generate appropriate responses to various stimuli, including verbal and visual cues. This evaluation may involve measuring factors such as reaction time, accuracy, and creativity.
 
 In summary, PAIR-A is a test that assesses an entity's psychocognitive abilities, particularly its capacity to assimilate new information and detect incongruities, as well as its ability to generate appropriate responses to various stimuli. It is intended to help determine whether an entity exhibits characteristics of self-awareness or sentience.
 
